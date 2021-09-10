@@ -1,11 +1,11 @@
 {
     "tokens": [
         {
-            "id": 0,
-            "description": "BrotsNFT",
+            "id": 1,
+            "description": "BrotsFeet",
             "external_url": "https://www.brots.cloud/",
-            "image_url": "https://svgshare.com/i/a3z.svg",
-            "name": "BrotsNFT #1"
+            "image": "https://twemoji.maxcdn.com/svg/1f463.svg",
+            "name": "BrotsFeet #1"
         }
     ]
 }
