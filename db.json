@@ -1,10 +1,18 @@
 {
-    "tokens":
+    "tokens": [
         {
             "id": 0,
             "description": "BrotsFeet",
             "external_url": "https://www.brots.cloud/",
             "image": "https://twemoji.maxcdn.com/svg/1f463.svg",
             "name": "BrotsFeet #1"
+        },
+        {
+            "id": 1,
+            "description": "BrotsFeet",
+            "external_url": "https://www.brots.cloud/",
+            "image": "https://twemoji.maxcdn.com/svg/1f463.svg",
+            "name": "BrotsFeet #2"
         }
+   ]
 }
